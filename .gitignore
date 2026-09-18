@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+sales.csv
+sales.json
+houses.csv
+astronauts.json
