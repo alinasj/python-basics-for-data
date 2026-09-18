@@ -1,1 +1,0 @@
-print("Hello and welcome to your stand alone script")
